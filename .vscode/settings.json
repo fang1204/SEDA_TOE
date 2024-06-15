@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\user\\.conda\\envs\\bi\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.terminal.activateEnvironment": true,
+    "remote.SSH.defaultForwardedPorts": [
+        
+    ]
+}
